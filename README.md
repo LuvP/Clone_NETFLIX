@@ -10,4 +10,4 @@
 
 #### JQuery(Owl Carousel)
 
-#Projeto disponibilizado pela Digital Innovation One e administrado pelo Professor Felipe Aguiar.
+# Projeto disponibilizado pela Digital Innovation One e administrado pelo Professor Felipe Aguiar.
