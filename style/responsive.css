@@ -1,0 +1,25 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+    margin-top: 5px;
+    width: 300px;
+    }
+
+
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
+
+/* Informações Adicionais
+    »Regra será aplicada até a regra escolhida, no caso max de 700px;
+    »Pode criar formatação dependendo do tamanho da tela;
+
+*/
